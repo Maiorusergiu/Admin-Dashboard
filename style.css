@@ -116,6 +116,7 @@ textarea:focus, input:focus{
     min-height: 60px;
     min-width: 60px;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 .nav {
     display: grid;
