@@ -111,7 +111,7 @@ textarea:focus, input:focus{
 .profile-image{
     width: 50px;
     border-radius: 50%;
-    background-image: url('/images/user-image.JPG');
+    background-image: url('./Images/user-image.JPG');
     background-size: 100%;
     min-height: 60px;
     min-width: 60px;
